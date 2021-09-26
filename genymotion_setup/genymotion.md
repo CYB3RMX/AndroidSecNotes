@@ -9,14 +9,14 @@
 ![photo](binary.png)
 
 - ```Give execution permission to downloaded binary.```<br><br>
-```chmod +x genymotion-3.2.1-linux_x64.bin```<br>
+```chmod +x genymotion-3.2.1-linux_x64.bin```<br><br>
 
 - ```Run the binary and say 'y' to question.```<br><br>
 ```./genymotion-3.2.1-linux_x64.bin```<br>
 ![photo](execute.png)
 
 - ```Install Genymotion to your system.```<br><br>
-```sudo cp -r genymotion/ /opt/ && sudo ln -sf /opt/genymotion/genymotion /usr/bin/```<br>
+```sudo cp -r genymotion/ /opt/ && sudo ln -sf /opt/genymotion/genymotion /usr/bin/```<br><br>
 
 - ```Create an account to use Genymotion.```<br>
 ![photo](login.png)
