@@ -16,7 +16,7 @@
 ![photo](execute.png)
 
 - ```Install Genymotion to your system.```<br><br>
-```sudo cp -r genymotion/ /opt/ && sudo ln -sf /opt/genymotion/genymotion /usr/bin/```<br><br>
+```sudo cp -r genymotion/ /opt/ && sudo ln -sf /opt/genymotion/genymotion /usr/bin/```<br><br   >
 
 - ```Create an account to use Genymotion.```<br>
 ![photo](login.png)
